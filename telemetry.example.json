@@ -1,0 +1,10 @@
+{
+  "deviceId": "ESP32-ATS-01",
+  "gridVoltageV": 221.4,
+  "solarPowerW": 1850,
+  "batterySoc": 78,
+  "loadPowerW": 1250,
+  "source": "solar",
+  "mode": "auto",
+  "lastUpdated": "2026-10-16T10:00:00.000Z"
+}
